@@ -15,6 +15,7 @@ Criar um banco de dados relacional contendo uma tabela de contatos e garantir qu
 
 bash
 sqlite3 seu_nome.db
+
 Use o código com cuidado.
 
 # 2. Criar a Tabela
@@ -66,4 +67,3 @@ Use o código com cuidado.
 Não esqueça o ponto e vírgula (;) ao final dos comandos SQL.
 O arquivo .db deve estar na raiz do projeto.
 Atenção: Se você ficar "preso" no prompt ...> , digite ; e dê Enter.
-Deseja que eu adicione algum critério de pontuação ou uma data de entrega específica a esse texto?
